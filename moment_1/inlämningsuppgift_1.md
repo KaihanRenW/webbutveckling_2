@@ -47,8 +47,4 @@ Skapa en enkel webb­sida `index.html` enligt nedan specifikation. Sidan ska vis
 - **Filer:**  
   - `index.html`  
   - (valfritt) `styles.css` om du använder extern CSS  
-- **Format:**  
-  - Packa alla filer i en ZIP-mapp, döp den till `Vecka1_<dittnamn>.zip`.  
-- **Deadline:**  
-  - Senast **söndag vecka 1 kl. 23:59**.  
-- **Lämna in via kursplattformen** enligt instruktion i LMS.
+- Push:a till din remote repo och dela länken för repo i CR.
