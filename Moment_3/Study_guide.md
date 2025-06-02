@@ -1,5 +1,5 @@
 
-# 📘 Week 3 – JavaScript, DOM, Security & Accessibility (Expanded)
+# 📘 Week 3 – JavaScript, DOM, Security & Accessibility
 
 This week, we transition into client-side development. You'll learn to use JavaScript and the DOM to make pages interactive, understand real-world security risks (like XSS and CSRF), and learn how to build websites that everyone — including people with disabilities — can use.
 
