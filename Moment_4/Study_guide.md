@@ -1,5 +1,5 @@
 
-# 📘 Week 4 – Layout, Typography & Frameworks
+# 📘 Layout, Typography & Frameworks
 
 This week focuses on improving your design and layout skills using **CSS layout systems**, selecting appropriate **typography**, and getting started with **design libraries** or frameworks like Bootstrap. We also explore principles of interface design and how to apply them in your own projects.
 
