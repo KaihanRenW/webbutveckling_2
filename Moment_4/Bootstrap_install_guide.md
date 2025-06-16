@@ -1,5 +1,5 @@
 
-# 🧑‍🎓 Full Beginner Guide: What is Bootstrap and How to Use It
+# What is Bootstrap and How to Use It
 
 Welcome to your detailed guide on **Bootstrap**! This guide will explain **everything from scratch** — including what Bootstrap is, how it works, and how to use it step-by-step using both **easy** and **advanced** methods.
 
